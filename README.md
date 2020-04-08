@@ -1,6 +1,19 @@
-# ifood
+# DarkTheme do iFood
 
-A new Flutter project.
+### Este é um exemplo em Flutter do clone da interface do iFood com o tema Dark.
+
+
+### O app foi feito para finalidades de estudo e aprimoramento na Framework Flutter, onde estou buscando aprimorar meu conhecimento na programação mobile.
+
+- <i> Obs: Não consegui achar no Material.io os bottons do BottomNavigationBar iguais aos que o iFood usa em seu app. E Foi apenas implementado a inferce inicial do App, não foram colocadas as funcionalidades dos botões do app.</i>
+
+
+### Clone:
+<img src = "https://github.com/xandeft/DarkTheme_iFood/blob/master/iFood_clone1.jpg?raw=true" height= "650" width= "420">
+
+### Original:
+<img src = "https://github.com/xandeft/DarkTheme_iFood/blob/master/iFood_origin.jpg?raw=true" height= "650" width= "420">
+
 
 ## Getting Started
 
